@@ -40,3 +40,27 @@ documentacao/
 figma/
 imagens/
 pitch/
+```
+
+---
+
+## Protótipo no Figma
+
+Link:
+https://www.figma.com/design/pihNgAVsbsXPrF5vY2SJuF/PREVITECH2?node-id=117-2&t=aGQU2YeJCl1UzwRa-1
+
+---
+
+## Integrantes
+
+- Gustavo Braga
+- Guilherme Melo
+- Henrique Tavares
+- Fernando Henrique
+- Everton Alves
+
+---
+
+## ExpoTech 2026
+
+Projeto acadêmico desenvolvido para apresentação tecnológica e avaliação técnica da ExpoTech 2026.
